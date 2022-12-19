@@ -1,0 +1,35 @@
+﻿.flag.it, .flag.italy, .flag_wt_italy, .flag_it {
+    background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTEiIHZpZXdCb3g9IjAgMCAxNiAxMSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjUiIGhlaWdodD0iMTEiIGZpbGw9IiMwMDkyNDYiLz4KPHJlY3QgeD0iNSIgd2lkdGg9IjYiIGhlaWdodD0iMTEiIGZpbGw9IndoaXRlIi8+CjxyZWN0IHg9IjExIiB3aWR0aD0iNSIgaGVpZ2h0PSIxMSIgZmlsbD0iI0NFMkIzNyIvPgo8L3N2Zz4K);
+}
+
+.flag {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 24px;
+    margin-top: -3px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    vertical-align: middle;
+}
+
+.gaijin-menu .top-panel__gaijin-logo {
+    border-bottom: 1px solid black;
+    box-shadow: inset 1px 0px 0 #1f1f1f, inset -1px 0px 0 #1f1f1f;
+    position: relative;
+    color: #d0d0d0;
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 37px;
+    padding: 0 15px;
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    padding: 0;
+    width: 40px;
+    height: 37px;
+    background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAClUlEQVRIicXVQUiUURSGYWU0SIpsl2C5SCRIM6nEIMJMSlIJoxLdVIs27SpSsiQ0UyyiSCvMtFJTJLNkMFMEFSMVNKqNBZbuEjXJhMoZ8/b+cILL32hzy8HFs7jfOWe+WQyMn1LKbyksSemiFme09TrRZcva0O3T4vTWHhembNkPe7boxYdbXr5Buy3rR61Piw81vyhBvy2rxGufFh90dmdgDlFaVgw3gnxWfKCpKxwKNVp2RbJdPitOe9LhgFuslawWCrn/XLy/oT0GhejDKFx4jyqkYjUmoZAFf4zIu8m4OLW+LQROKAM9SNDew0bFKbXPYzEGpZlFC85gGxwIRig2YEL2XNrNjNfF+6qfhWMMSoyjCOsW+rLM4zGg3VlmvSree9/pj14oUYJgD3trEGbt2/JO7dbS6FXxnoqnyVDiuG0WiEy0YlZ2vuMtHqMYE9r9NMK8Kk680/gQCh9s+W4My+w3NxpwCp22mSXHU4fH4oRbjz5CYciWj0g+g3JUI0Kbh+Od7Fi+YIXXxfEl9W4oka7ldyXL07KVyESyvE9qt3Xz/Qg9hjuv17mhxBgCJQ9AH6rkfQ5TsvcZDqzXbrONindcrRmF0iRpszx8RRAu2vaiZeeVvE8YFW+/XNUMpanUZhslO41UbWcccbKTL1mBUXFc0b1jUJpJBMosAC7JB3EJUbb7JJm3GxXHFlQswyCUJkWbX0MyHPPcb5EbN0K8LrZszS+PwiSUcC6wuwpHUIYH6NXuio2KLVsulEVgAAo/EanN/JGIGnyTHU8mjIstMbm3A3AU0xhCISowDIUWJGL53z7LqNiyOedmJOagNJ+QZlJmXBx9tvQ8lJhBKf74t1r04k3ZN1rRgSyE/k+hUbEv/AIXkI1s0SD7+AAAAABJRU5ErkJggg==') 50% 50% no-repeat;
+}
